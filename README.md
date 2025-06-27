@@ -1,0 +1,2 @@
+Il mio primo vero progetto di Machine Learning dove analizzerò gli ultimi 25 anni di partite del circuito ATP al fine di creare un modello Random Forest che ci permetta di predirre gli scontri diretti tra i top 10 tennisti al mondo al prossimo torneo di Wimbledon 2025 che si tratta il 30 giugno e il 11 luglio.
+Questi risultati in fine saranno visualizzabili attraverso una dashboard creata in Tableau che renderà accessibile agli utenti le nostre predizioni.
